@@ -1,5 +1,5 @@
 {
-    "name": "web2all/safebrowsingv4-sqlstorage",
+    "name": "z5internet/safebrowsingv4-sqlstorage",
     "description": "Google safebrowsing SQL storage implementation",
     "keywords": ["google","safebrowsing","sql storage"],
     "license": "MIT",
